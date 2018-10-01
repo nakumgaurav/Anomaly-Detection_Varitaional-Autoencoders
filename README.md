@@ -16,4 +16,7 @@ https://www.cse.iitb.ac.in/~comad/2010/ResearchTrack/paper%2017.pdf
 Network IDS:
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4573059&tag=1
 
+Cable Bridge:
+https://www.tandfonline.com/doi/abs/10.1080/15732479.2014.951867
+
 http://www.dtic.mil/dtic/tr/fulltext/u2/a610860.pdf
