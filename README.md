@@ -1,4 +1,4 @@
-A small script to demonstrate the use of Variational AutoEncoders (VAE) for detecting anomalies in MNIST dataset, the anomnalies being the absence of a particular digit in the training dataset and its presence in the test dataset. The VAE attempts to identify such a digit as an anomaly.
+A small script to demonstrate the use of Variational Autoencoders (VAE) for detecting anomalies in MNIST dataset, the anomnalies being the absence of a particular digit in the training dataset and its presence in the test dataset. The VAE attempts to identify such a digit as an anomaly.
 
 
 Other resources on anomaly detection based on Bayesian Inference:
